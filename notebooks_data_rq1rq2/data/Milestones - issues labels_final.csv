@@ -1,0 +1,6 @@
+issue_number,label1,label2,label3,label4,label5,label6,skill1,skill2,skill3,skill4
+5194,type: bug,API: Google common,API: Network,API: Logging,API: Input and Output,,Google common,Network,Logging,Input and Output
+5069,entre-preview,search,type: bug,API: Network,API: User Interface,API: Logging,Network,User Interface,Logging,
+4612,entry editor,type: bug,peferences,API: User Interface,,,User Interface,,,
+5485,good first issue,fetcher,API: Input and Output,,,,Input and Output,,,
+5679,API: Test,API: Input and Output,,,,,Input and Output,Test,,

@@ -1,0 +1,29 @@
+P,DistributionChannel,group,Q57,correct,sound solution,issue_number
+,Distribution Channel,,Which of the following skills do you think you need to solve this issue?,,,
+,"{""ImportId"":""distributionChannel""}",,"{""ImportId"":""QID102""}",,,
+P0,anonymous,Control,,0,0,5679
+P1,anonymous,Treatment,,1,1,5485
+P2,anonymous,Control,,0,0,4612
+P3,anonymous,Treatment,,0,1,5194
+P4,anonymous,Control,"User Interface (UI),Testing",0,0,4612
+P5,anonymous,Treatment,"User Interface (UI),Testing,Network Development,Input and Output",0,1,5069
+P6,anonymous,Control,"Testing,Google Common",0,0,5485
+P7,anonymous,Treatment,"Logging,Testing,Input and Output",0,1,5485
+P8,anonymous,Treatment,"User Interface (UI),Logging,Testing,Input and Output",1,1,5485
+P9,anonymous,Control,"User Interface (UI),Testing",0,1,5069
+P10,anonymous,Control,"User Interface (UI),Testing,Network Development",0,0,4612
+P11,anonymous,Treatment,"User Interface (UI),Logging,Testing,Input and Output",0,1,5069
+P12,anonymous,Treatment,"Logging,Input and Output",0,1,5679
+P13,anonymous,Control,"Testing,Input and Output",0,0,5485
+P14,anonymous,Control,"Testing,Input and Output",0,1,5069
+P15,anonymous,Treatment,"User Interface (UI),Input and Output",0,0,5194
+P16,anonymous,Treatment,"User Interface (UI),Network Development,Input and Output",0,0,5069
+P17,anonymous,Control,"User Interface (UI),Testing,Input and Output",0,0,5194
+P18,anonymous,Control,"Logging,Testing",0,0,5679
+P19,anonymous,Treatment,"Google Common,Input and Output",1,1,5485
+P20,anonymous,Control,Input and Output,1,1,5485
+P21,anonymous,Treatment,"User Interface (UI),Logging,Testing,Network Development",0,1,4612
+P22,anonymous,Control,"Logging,Testing,Network Development",1,1,5485
+P23,anonymous,Control,"User Interface (UI),Testing",1,1,5485
+P24,anonymous,Treatment,"Logging,Testing,Network Development",1,1,5485
+P25,anonymous,Treatment,"Logging,Google Common,Input and Output",1,1,5194
