@@ -8,7 +8,7 @@ P3,anonymous,Treatment,,0,1,5194
 P4,anonymous,Control,"User Interface (UI),Testing",0,0,4612
 P5,anonymous,Treatment,"User Interface (UI),Testing,Network Development,Input and Output",0,1,5069
 P6,anonymous,Control,"Testing,Google Common",0,0,5485
-P7,anonymous,Treatment,"Logging,Testing,Input and Output",0,1,5485
+P7,anonymous,Treatment,"Logging,Testing,Input and Output",0,0,5485
 P8,anonymous,Treatment,"User Interface (UI),Logging,Testing,Input and Output",1,1,5485
 P9,anonymous,Control,"User Interface (UI),Testing",0,1,5069
 P10,anonymous,Control,"User Interface (UI),Testing,Network Development",0,0,4612
